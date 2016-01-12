@@ -1,0 +1,9 @@
+<suite name="TestNgparSuite" parallel="classes" thread-count="3">
+<test name="CrossBrowserTesting">
+<classes>
+<class name="TestNgExamples.Ex1"/>
+<class name="TestNgExamples.Ex2"/>
+<class name="TestNgExamples.Ex3"/>
+</classes>
+</test>
+</suite>
